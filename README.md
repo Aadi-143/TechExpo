@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QueueLess Campus – Admin Office Waiting-Time Analyzer
 
 Reduces unnecessary waiting at the **fee counter, examination cell and administration office**.
@@ -90,3 +91,6 @@ or anyone can add a **manual observation** (arrival time + minutes waited). Manu
 ## Privacy
 
 Only a token number and timestamps are stored – no student names or IDs. Tell users that wait times are being recorded.
+=======
+# TechExpo
+>>>>>>> a81e629ab4969358b8e37f9c836603af80fec705
